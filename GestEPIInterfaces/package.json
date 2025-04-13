@@ -1,0 +1,25 @@
+{
+  "name": "gestepiinterfaces",
+  "version": "1.0.0",
+  "description": "Afin d’utiliser les mêmes types dans les deux briques Back et Front, il est pertinent de les définir dans un package que l’on publiera sur npm afin de l’importer dans nos projets en tant que dépendance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FasilDev/gestEPI_Fasil.git"
+  },
+  "keywords": [
+    "GestEPIFafe"
+  ],
+  "author": "FasilDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FasilDev/gestEPI_Fasil/issues"
+  },
+  "homepage": "https://github.com/FasilDev/gestEPI_Fasil#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
